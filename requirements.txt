@@ -23,6 +23,7 @@ matplotlib
 awsebcli
 botocore
 bcrypt
+gunicorn 
 
 # Other Dependencies
 PyYAML

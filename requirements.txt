@@ -1,0 +1,30 @@
+# Framework
+Flask==3.1.0
+Werkzeug==3.1.3
+Jinja2==3.1.6
+itsdangerous==2.2.0
+blinker==1.9.0
+click==8.1.8
+
+# Data Science & ML Core (Flexible versions)
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+
+# Image & Utilities
+opencv-python
+imutils
+Pillow
+matplotlib
+
+# AWS & Deployment
+awsebcli
+botocore
+bcrypt
+
+# Other Dependencies
+PyYAML
+requests
+openpyxl
